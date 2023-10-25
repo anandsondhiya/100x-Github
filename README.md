@@ -13,3 +13,5 @@ Assignment 1 - HTML Resume
 Module 3 
 Assignment 1 - HTML CSS Resume
  https://html-css-resume-anand.netlify.app/
+
+ <a href="https://html-css-resume-anand.netlify.app/" target="_blank">HTML CSS RESUME</a>

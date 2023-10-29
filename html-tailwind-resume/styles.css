@@ -1,0 +1,87 @@
+/* For paper background (got from stack overflow) */
+
+/* body {
+    position: absolute;
+    display: flex;
+      width: 75%;
+    min-height: calc((1vw + 1vh) * 75);
+    top: 0%; left: 50%; transform: translate(-50%, 0);
+    margin: 2em 0;
+      padding: 4em;
+      box-shadow: 2px 3px 20px black, 0 0 60px #8a4d0f inset;
+      background: #fffef0;
+    filter: url(#wavy2);
+  } */
+
+body{
+    background-color: #fafafa;
+}
+
+.container {
+    width: 794px; 
+    margin: 0 auto; 
+  }
+  
+  
+*{
+    font-family: "rem", "helvetica";
+}
+
+.header h1,p{
+    margin: 0;
+}
+
+.header h3{
+    margin: 0;
+    color: #808080;
+    font-weight: normal;
+}
+
+.header div{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-top: 16px;
+    background-color: #f1f1f1;
+}
+
+
+section h1{
+    color: #4fc0aa;
+    font-weight:bold;
+}
+
+section h3, h4{
+    margin: 0;
+}
+
+section h4{
+    font-weight: bold;
+}
+
+.date-city{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-style: italic;
+    color: #70787d;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+    
+  }
+
+  .material-symbols-outlined{
+    color: #4fc0aa;
+  }
+
+  .links{
+    font-size: 16px;
+    color: rgb(66, 66, 66);
+  }
